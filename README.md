@@ -2,6 +2,10 @@
 An AI-powered resume analyzer built with React, React Router, and Puter.js.
 It provides custom ATS scores and tailored feedback by matching resumes against job listings—fully in the browser, no backend required.
 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
 ✨ Features
 🔑 Easy & Convenient Auth – Seamless in-browser authentication with Puter.js.
 
@@ -12,7 +16,7 @@ It provides custom ATS scores and tailored feedback by matching resumes against 
 🎨 Modern UI/UX – Responsive, reusable components built with Tailwind CSS.
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 ⚙️ Tech Stack
