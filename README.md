@@ -12,6 +12,9 @@ It provides custom ATS scores and tailored feedback by matching resumes against 
 🎨 Modern UI/UX – Responsive, reusable components built with Tailwind CSS.
 
 
+
+
+
 ⚙️ Tech Stack
 Category	Tools / Libraries
 
